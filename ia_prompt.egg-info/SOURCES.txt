@@ -1,0 +1,7 @@
+README.md
+setup.py
+ia_prompt.egg-info/PKG-INFO
+ia_prompt.egg-info/SOURCES.txt
+ia_prompt.egg-info/dependency_links.txt
+ia_prompt.egg-info/requires.txt
+ia_prompt.egg-info/top_level.txt

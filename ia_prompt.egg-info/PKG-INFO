@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: ia_prompt
+Version: 0.1
+Summary: Module pour le déploiement de l’IA de modélisation 3D
+Author: noalau
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: trimesh
+Dynamic: author
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
