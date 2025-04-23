@@ -17,7 +17,7 @@ class ModelingAIClient:
             return response.json()
         except requests.RequestException as e:
             print(f"❌ Erreur lors de l'envoi du prompt : {e}")
-            return None
+            return {"error": str(e)}
 
     def get_status(self):
         """

@@ -1,0 +1,26 @@
+
+
+## Installer la CLI Llama
+### Dans votre environnement préféré, exécutez la commande ci-dessous :
+`pip install llama-stack`
+### Utilisez l'option -U pour mettre à jour llama-stack si une version précédente est déjà installée :
+`pip install llama-stack -U`
+
+## Trouver la liste des modèles 
+### Consultez les derniers modèles disponibles en exécutant la commande suivante et déterminez l'ID du modèle que vous souhaitez télécharger :
+`llama model list`
+### Si vous souhaitez des versions plus anciennes des modèles, exécutez la commande ci-dessous pour afficher tous les modèles Llama disponibles :
+`llama model list --show-all`
+
+
+### Clé URL personnalisée
+### LlamaGuard 3 for Llama 3.1
+`https://llama3-1.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiYWh0cm0wNmpsOXE5MTdhczN3NXdnYnF1IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTEubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzA2NzkxNn19fV19&Signature=eCh73SqNpeRZBiTOMlDqH3Jl53zlmFPlx3QRpJ9bPI-hujIccRlOoLfeMDd9tH5LtzjpMeXi4kTi0rPsC7Uji-S5ZgWyOoNwELDxYASMlBXF%7EDUhJmk2LnLsLF5AJOluBum1WREERHk3e%7EB5KpzVEDj0E9QI0bxp1BMKq-PadUQEBORePnM4VMb50LIZfx2LBuKhIr9Of1bZ%7ELA7V0lQHwCPgofIyHH7t7dX6XHu7yJ0YsBT1hnpJPJuvmWlo676U7%7EPfwC3%7EFpe7N1fYU3N1VJprMTmptubnn4EMapUEiYdgd%7E9Kc%7E695kg0t7WXA%7EpBuXdWrlsTDuyltazwdkgLQ__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=1164748521561589`
+
+### Llam 3.3: 70B
+`https://llama3-3.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiNDJsZTZndGEzemR5ZWQ0b2ZkbXE0NXQ0IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTMubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzA2NzkxNn19fV19&Signature=cU5sJZls9U5mV5aJ7JGmXb42wiRpLZNpzc9RFhoGlbrMJJNSIwT58puG77hP9UhtLK4tFCAV1o1%7Ea46QlPq8HarJDJ36KHR1-JmTeeY3RE3qqHAF8J7ZfywATw0OmvDXcLfmaFDmi9kwGlmbf8JZCUCplwEPdF5O8jJGVgyAmX-B-CDE9E-Bw9Q3ygSxj-N%7E0busRKGEK7uORQzoHrBeFD8-PldOPkGUAWSG39rfLWOxB1aSkWR06NbiA6LufyUbIlEu9-BEIC-f0c3vNFmpW6eWL0pZsz-yGAyMNtc5fIWVYijZL-zI7pqDydy-TgdDek%7EeNS4pXrApdBZCqjy2OA__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=2121264141692785`
+
+### Prompt Guard 
+`https://llama3-1.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiYnhpdXl1NmVibGxhY3Y2eDJsM2xjNnoyIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTEubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzA2NzkxNn19fV19&Signature=KPF2tVpIQIW1EWy4XCslY8CJFFxbWqCE8WmNWMjizNMePJzd-W5MXt3HPt9gPkjY7k59ASrkG3j3lRruSE3fChPKHP2m5M5fJz2tT3PYWQ0cL4DMTNBsU%7EDgSfoirqZOUSp-nN%7E5uQtIGDwRCSvOSqtbVyJIoRoN8ln7UO1psRDangwcruAMCkYzLrKuEYXDzGT8NCTVSWHm4M6bykP0KrHW25Q3hzsi1JHD4uZ5MO7DP3B0bC3s51XOKmFQQOm0lCdSjn5hANj85E35r3fB17VtrPVtPxe8FcnyM%7E2zKD9twZkjWFScVS16SbGf2yqdp0dGE06cEnaZuPIE7N7U4g__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=1176529653914999`
+
+
